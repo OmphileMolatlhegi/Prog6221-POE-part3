@@ -1,5 +1,5 @@
 # Prog6221 POE part3
-
+https://github.com/OmphileMolatlhegi/Prog6221-POE-part3.git 
 Overview
 CyberSecBot is a Windows desktop application designed to educate users about cybersecurity best practices through interactive chat, task management, quizzes, and activity logging. The application features a chatbot that can answer questions about various cybersecurity topics, help manage security-related tasks, and test users' knowledge with a quiz.
 Features
@@ -91,3 +91,7 @@ Add multimedia content (videos, images) for education
 
 License
 This project is open-source and available under the MIT License.
+
+Microsoft. (2025). .NET Framework [Software framework]. Available at: https://dotnet.microsoft.com/
+Microsoft. (2025). Windows Forms (System.Windows.Forms) [GUI library]. Available at: https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms
+
