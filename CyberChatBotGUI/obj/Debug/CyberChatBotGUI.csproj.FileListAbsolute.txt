@@ -1,0 +1,11 @@
+C:\Users\lab_services_student\Desktop\Prog6221\CyberChatBotGUI\obj\Debug\CyberChatBotGUI.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\Prog6221\CyberChatBotGUI\obj\Debug\CyberChatBotGUI.Properties.Resources.resources
+C:\Users\lab_services_student\Desktop\Prog6221\CyberChatBotGUI\obj\Debug\CyberChatBotGUI.csproj.GenerateResource.cache
+C:\Users\lab_services_student\Desktop\Prog6221\CyberChatBotGUI\obj\Debug\CyberChatBotGUI.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\Prog6221\CyberChatBotGUI\bin\Debug\CyberChatBotGUI.exe.config
+C:\Users\lab_services_student\Desktop\Prog6221\CyberChatBotGUI\bin\Debug\CyberChatBotGUI.exe
+C:\Users\lab_services_student\Desktop\Prog6221\CyberChatBotGUI\bin\Debug\CyberChatBotGUI.pdb
+C:\Users\lab_services_student\Desktop\Prog6221\CyberChatBotGUI\obj\Debug\CyberChatBotGUI.exe
+C:\Users\lab_services_student\Desktop\Prog6221\CyberChatBotGUI\obj\Debug\CyberChatBotGUI.pdb
+C:\Users\lab_services_student\Desktop\Prog6221\CyberChatBotGUI\bin\Debug\Sounds\welcome.wav
+C:\Users\lab_services_student\Desktop\Prog6221\CyberChatBotGUI\obj\Debug\CyberChatBotGUI.MainForm.resources
